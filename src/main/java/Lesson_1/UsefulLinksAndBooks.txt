@@ -1,0 +1,5 @@
+Интересная статья о размере объектов в Java: https://habr.com/post/134102/
+Как устроена память в Java: https://www.baeldung.com/java-stack-heap
+
+1. Прочитать в книге Grokking Algorithms:
+An illustrated guide for programmers and other curious people про алгоритмы и О-большое.
